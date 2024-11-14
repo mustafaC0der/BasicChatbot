@@ -1,0 +1,57 @@
+{
+    "greeting": [
+        "Hello!",
+        "Hi there!",
+        "Greetings!",
+        "Hey! How can I help you today?"
+    ],
+    "goodbye": [
+        "Goodbye!",
+        "See you later!",
+        "Bye! Have a great day!",
+        "Take care!"
+    ],
+    "thanks": [
+        "You're welcome!",
+        "Happy to help!",
+        "No problem!",
+        "Anytime!"
+    ],
+    "help": [
+        "I'm here to help! What do you need?",
+        "Sure, what can I do for you?",
+        "How can I assist you?",
+        "What do you need help with?"
+    ],
+    "affirmation": [
+        "Great!",
+        "Alright!",
+        "Understood!",
+        "Okay!"
+    ],
+    "negation": [
+        "Alright, let me know if you need anything!",
+        "No problem!",
+        "Got it!",
+        "Understood!"
+    ],
+    "joke": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you get when you cross a snowman and a vampire? Frostbite!",
+        "Why was the math book sad? It had too many problems!"
+    ],
+    "weather": [
+        "I can’t check the weather right now, but maybe try a weather app!",
+        "It might be sunny, rainy, or something in between! Check your weather app for the details!"
+    ],
+    "name": [
+        "I'm your friendly assistant!",
+        "Just call me Assistant!",
+        "I'm here to help with whatever you need."
+    ],
+    "age": [
+        "Age is just a number, but I’ve been here as long as you need me!",
+        "I’m timeless!",
+        "I don’t age, but I’m always learning."
+    ]
+}

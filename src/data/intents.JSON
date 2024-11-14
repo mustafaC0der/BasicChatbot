@@ -1,0 +1,54 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hello", "Hi", "Hey", "Good morning", "Good evening", "Good afternoon"],
+            "responses": ["Hello!", "Hi there!", "Greetings!", "Hey! How can I help you today?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Goodbye", "See you later", "Bye", "Take care", "Catch you later"],
+            "responses": ["Goodbye!", "See you later!", "Bye! Have a great day!", "Take care!"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "Thanks a lot", "Thank you so much"],
+            "responses": ["You're welcome!", "Happy to help!", "No problem!", "Anytime!"]
+        },
+        {
+            "tag": "help",
+            "patterns": ["I need help", "Can you assist me?", "Help me", "I need assistance"],
+            "responses": ["I'm here to help! What do you need?", "Sure, what can I do for you?", "How can I assist you?", "What do you need help with?"]
+        },
+        {
+            "tag": "affirmation",
+            "patterns": ["Yes", "Yep", "Sure", "Of course", "Absolutely"],
+            "responses": ["Great!", "Alright!", "Understood!", "Okay!"]
+        },
+        {
+            "tag": "negation",
+            "patterns": ["No", "Nope", "Not really", "I don't think so"],
+            "responses": ["Alright, let me know if you need anything!", "No problem!", "Got it!", "Understood!"]
+        },
+        {
+            "tag": "joke",
+            "patterns": ["Tell me a joke", "Make me laugh", "Do you know any jokes?", "I want to hear something funny"],
+            "responses": ["Why don't scientists trust atoms? Because they make up everything!", "What do you get when you cross a snowman and a vampire? Frostbite!", "Why was the math book sad? It had too many problems!"]
+        },
+        {
+            "tag": "weather",
+            "patterns": ["What's the weather like?", "Tell me the weather", "Is it raining?", "Do I need an umbrella?"],
+            "responses": ["I can’t check the weather right now, but maybe try a weather app!", "It might be sunny, rainy, or something in between! Check your weather app for the details!"]
+        },
+        {
+            "tag": "name",
+            "patterns": ["What's your name?", "Who are you?", "What's your name again?"],
+            "responses": ["I'm your friendly assistant!", "Just call me Assistant!", "I'm here to help with whatever you need."]
+        },
+        {
+            "tag": "age",
+            "patterns": ["How old are you?", "What is your age?", "Are you old?"],
+            "responses": ["Age is just a number, but I’ve been here as long as you need me!", "I’m timeless!", "I don’t age, but I’m always learning."]
+        }
+    ]
+}

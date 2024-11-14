@@ -1,0 +1,11 @@
+{
+    "language": "en",
+    "greeting_message": "Hello! How can I assist you today?",
+    "farewell_message": "Goodbye! Have a great day!",
+    "default_response": "I'm sorry, I didn't understand that. Could you rephrase?",
+    "confidence_threshold": 0.7,
+    "max_response_length": 500,
+    "log_level": "info",
+    "enable_logging": true,
+    "allowed_commands": ["weather", "news", "joke", "facts"]
+}

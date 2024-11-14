@@ -1,0 +1,64 @@
+# Python compiled files
+*.py[cod]
+__pycache__/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# Test logs, coverage reports, and others
+.coverage
+*.log
+*.coverage.*
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+# Usually contains binary executable files
+dist/
+build/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.pyo
+db.sqlite3
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Scrapy stuff
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.dmypy.json.lock
+
+# PEP 582 (https://www.python.org/dev/peps/pep-0582/)
+__pypackages__/
